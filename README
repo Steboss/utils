@@ -1,0 +1,6 @@
+Collection of scripts:
+
+- logistic_plot.py: utility to plot features categorized by probability, useful for lin and log reg
+- check_if_folder_exists.py: this is the most easy script ever to check if a folder exists, but I keep forgetting it!
+- pyspark_to_pandas.py: pass from pyspark dataframe to pandas avoiding the toPandas() function
+- stft_c_cython: cython version of STFT re-wrtitten in C, faster than librosa

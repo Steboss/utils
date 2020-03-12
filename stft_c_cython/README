@@ -1,0 +1,2 @@
+Implementation of the STFT in C, linked through Cython to be used with Python 
+Faster than the librosa or scipy stft
